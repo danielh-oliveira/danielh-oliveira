@@ -8,11 +8,11 @@
 
 ##### BIO
 
-- 🏢 Atualmente estou empenhado em **desenvolver aplicativos** e aumentar meu conhecimento
+- 🏢 Atualmente estou focando em **desenvolver aplicativos** e aumentar meu conhecimento
 - ⚙️ Eu uso em meus projetos: `Kotlin`, `Java`, `Javascript` e `C`.
 - 🌱 Aprendendo tudo sobre **Android**
 - 💬 Tenho interessem em **aplicativos mobile**, **game dev**, **empreendedorismo**, **inovação**
-- 📫 Vem falar comigo: [linkedin.com/in/danielh-santos/](https://www.linkedin.com/in/danielh-santos/)
+- 📫 Vem falar comigo: [linkedin.com/in/danielh-santos/](https://www.linkedin.com/in/danielh-santos/) ou danielh_oliveira@yahoo.com.br
 - ⚡️ Fun fact: Eu sou um grande fã de Westworld
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-oliveira&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
