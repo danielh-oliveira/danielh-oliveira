@@ -11,7 +11,7 @@
 - 🏢 Atualmente estou focando em **desenvolver aplicativos** e aumentar meu conhecimento
 - ⚙️ Eu uso em meus projetos: `Kotlin`, `Java`, `Javascript` e `C`.
 - 🌱 Aprendendo tudo sobre **Android**
-- 💬 Tenho interesse em **aplicativos mobile**, **game dev**, **empreendedorismo**, **inovação**
+- 💬 Tenho interesse em **aplicativos mobile**, **game dev**, **empreendedorismo** e **inovação**
 - 📫 Vem falar comigo: [linkedin.com/in/danielh-santos/](https://www.linkedin.com/in/danielh-santos/) ou danielh_oliveira@yahoo.com.br
 - ⚡️ Fun fact: Eu sou um grande fã de Westworld
 
