@@ -1,6 +1,6 @@
 ### Olá 👋
 
-#### Eu sou um Desenvolvedor Android! 🤖 
+#### Eu sou um Desenvolvedor! 🤖 
 
 #### Linguagens e Ferramentas
 
