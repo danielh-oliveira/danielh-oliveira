@@ -1,19 +1,23 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danielh-oliveira&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 ### Olá 👋
 
-#### Eu sou um Desenvolvedor! 🤖 
+#### Eu sou o Daniel, desenvolvedor focado em ServiceNow e entusiasta em game dev 🎮
 
 #### Linguagens e Ferramentas
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+#### Sobre mim
 
-##### BIO
+* 💼 Atualmente trabalho com **desenvolvimento e suporte na plataforma ServiceNow**
+* 🔧 Desenvolvo **widgets personalizados** e automações no ServiceNow
+* 🎮 Nas horas vagas, desenvolvo **jogos 3D** com **Godot** para **Windows** e **Android**
+* 📦 Você vai encontrar aqui:
 
-- 🏢 Atualmente estou focando em **desenvolver aplicativos** e aumentar meu conhecimento
-- ⚙️ Eu uso em meus projetos: `Kotlin`, `Java`, `Javascript` e `C`.
-- 🌱 Aprendendo tudo sobre **Android**
-- 💬 Tenho interesse em **aplicativos mobile**, **game dev**, **empreendedorismo** e **inovação**
-- 📫 Vem falar comigo: [linkedin.com/in/danielh-santos/](https://www.linkedin.com/in/danielh-santos/) ou danielh_oliveira@yahoo.com.br
-- ⚡️ Fun fact: Eu sou um grande fã de Westworld
+  * Projetos de widgets para ServiceNow
+  * Jogos em Godot (3D)
+  * Repositórios antigos com projetos em React e Android
+* 📚 Estudando mais sobre **Angular** para frontend moderno
+* 🐍 Uso **Python** para scripts e projetos de backend (privados por enquanto)
+* ⚠️ Não desenvolvo mais apps Android que não sejam jogos
+* 🎬 Ainda gosto de **Westworld**, mesmo achando a última temporada... discutível
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielh-oliveira&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/danielh-santos/) 
