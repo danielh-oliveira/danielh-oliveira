@@ -3,8 +3,6 @@
 
 #### Eu sou o Daniel, desenvolvedor focado em ServiceNow e entusiasta em game dev 🎮
 
-#### Linguagens e Ferramentas
-
 #### Sobre mim
 
 * 💼 Atualmente trabalho com **desenvolvimento e suporte na plataforma ServiceNow**
@@ -20,4 +18,4 @@
 * ⚠️ Não desenvolvo mais apps Android que não sejam jogos
 * 🎬 Ainda gosto de **Westworld**, mesmo achando a última temporada... discutível
 
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/danielh-santos/) 
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/danielh-oliveira/) 
